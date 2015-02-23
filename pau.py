@@ -1,5 +1,6 @@
 #
 # Copyright(C) 2015. Sungho Park
+# This module is distributed under Apache 2.0 license.
 #
 
 __author__ = 'Sungho Park'
